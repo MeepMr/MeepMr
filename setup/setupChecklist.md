@@ -69,3 +69,30 @@ brew link --overwrite node@16 --force
   - Mind Node
   - Signal
   - (Sync Folders)
+  - GoodNotes
+
+- [ ] Install Shadow
+
+- [ ] VS-Code Plugins:
+  - Atom one dark theme
+  - Latex Workshop
+  - Material Icon Theme
+
+- [ ] Dokumente, Desktop ... auf iCloud speichern
+- [ ] Log in to Docker
+```
+docker login -u mrmeep
+docker login ghcr.io -u meepmr
+```
+
+- [ ] Enable Private Mode in Firefox
+- [ ] Add Templates To iA Writer
+- [ ] Log into Jetbrains Toolbox
+  - Install IntelliJ
+  - Install Rider
+  - Install DataGrip
+
+- [ ] Configure MOS.app
+- [ ] (Install SF-Symbols)
+- [ ] Configure Sound-Control
+- [ ] Import Citations into Zotero
