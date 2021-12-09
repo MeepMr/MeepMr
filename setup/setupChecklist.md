@@ -41,3 +41,31 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 - [ ] Copy .zshrc into ~
 - [ ] Copy .p10k.zsh into ~
+
+- [ ] Run install-script
+```
+sh ./install-programs.sh
+```
+
+- [ ] Link node 16
+```
+brew link --overwrite node@16 --force
+```
+
+- [ ] Install AppStore Apps
+  - Affinity Designer
+  - Affinity Publisher
+  - Affinity Photo
+  - Grand Perspective
+  - HotKey
+  - iA Writer
+  - MS Word
+  - MS Excel
+  - MS PowerPoint
+  - MS RD
+  - MS Teams
+  - MS OneNote
+  - MS ONeDrive
+  - Mind Node
+  - Signal
+  - (Sync Folders)
