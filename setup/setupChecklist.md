@@ -47,7 +47,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 sh ./install-programs.sh
 ```
 
-- [ ] Link node 16
+- [x] Link node 16
 ```
 brew link --overwrite node@16 --force
 ```
@@ -85,8 +85,8 @@ docker login -u mrmeep
 docker login ghcr.io -u meepmr
 ```
 
-- [ ] Enable Private Mode in Firefox
-- [ ] Add Templates To iA Writer
+- [x] Enable Private Mode in Firefox
+- [x] Add Templates To iA Writer
 - [x] Log into Jetbrains Toolbox
   - Install IntelliJ
   - Install Rider
@@ -95,4 +95,4 @@ docker login ghcr.io -u meepmr
 - [x] Configure MOS.app
 - [ ] (Install SF-Symbols)
 - [x] Configure Sound-Control
-- [ ] Import Citations into Zotero
+- [x] Import Citations into Zotero
