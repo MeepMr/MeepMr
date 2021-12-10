@@ -1,48 +1,48 @@
-- [ ] Install X-Code CL Tools
+- [x] Install X-Code CL Tools
 ```
 xcode-select --install
 ```
 
-- [ ] Install Homebrew
+- [x] Install Homebrew
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-- [ ] Install ITerm2
+- [x] Install ITerm2
 ```
 brew install iterm2
 ```
 
-- [ ] Install OhMyZsh
+- [x] Install OhMyZsh
 ```
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-- [ ] Install Powerlevel10k
+- [x] Install Powerlevel10k
 ```
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
-- [ ] Install ZshSyntaxHighliting
+- [x] Install ZshSyntaxHighliting
 ```
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 
-- [ ] Install ls
+- [x] Install ls
 ```
 cd ~/.oh-my-zsh/custom/plugins
 git clone https://github.com/zpm-zsh/ls.git
 ```
 
-- [ ] Install ZshAutoSuggestions
+- [x] Install ZshAutoSuggestions
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
-- [ ] Copy .zshrc into ~
-- [ ] Copy .p10k.zsh into ~
+- [x] Copy .zshrc into ~
+- [x] Copy .p10k.zsh into ~
 
-- [ ] Run install-script
+- [x] Run install-script
 ```
 sh ./install-programs.sh
 ```
@@ -52,7 +52,7 @@ sh ./install-programs.sh
 brew link --overwrite node@16 --force
 ```
 
-- [ ] Install AppStore Apps
+- [x] Install AppStore Apps
   - Affinity Designer
   - Affinity Publisher
   - Affinity Photo
@@ -73,13 +73,13 @@ brew link --overwrite node@16 --force
 
 - [ ] Install Shadow
 
-- [ ] VS-Code Plugins:
+- [x] VS-Code Plugins:
   - Atom one dark theme
   - Latex Workshop
   - Material Icon Theme
 
-- [ ] Dokumente, Desktop ... auf iCloud speichern
-- [ ] Log in to Docker
+- [x] Dokumente, Desktop ... auf iCloud speichern
+- [x] Log in to Docker
 ```
 docker login -u mrmeep
 docker login ghcr.io -u meepmr
@@ -92,7 +92,7 @@ docker login ghcr.io -u meepmr
   - Install Rider
   - Install DataGrip
 
-- [ ] Configure MOS.app
+- [x] Configure MOS.app
 - [ ] (Install SF-Symbols)
 - [ ] Configure Sound-Control
 - [ ] Import Citations into Zotero
