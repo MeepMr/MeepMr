@@ -71,7 +71,7 @@ brew link --overwrite node@16 --force
   - (Sync Folders)
   - GoodNotes
 
-- [ ] Install Shadow
+- [x] Install Shadow
 
 - [x] VS-Code Plugins:
   - Atom one dark theme
@@ -87,12 +87,12 @@ docker login ghcr.io -u meepmr
 
 - [ ] Enable Private Mode in Firefox
 - [ ] Add Templates To iA Writer
-- [ ] Log into Jetbrains Toolbox
+- [x] Log into Jetbrains Toolbox
   - Install IntelliJ
   - Install Rider
   - Install DataGrip
 
 - [x] Configure MOS.app
 - [ ] (Install SF-Symbols)
-- [ ] Configure Sound-Control
+- [x] Configure Sound-Control
 - [ ] Import Citations into Zotero
