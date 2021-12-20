@@ -21,3 +21,5 @@ brew install drawio
 brew install jetbrains-toolbox
 brew install sound-control
 brew install the-unarchiver
+brew install hazel
+brew install meetingbar
