@@ -1,5 +1,5 @@
 brew install atom
-brew install docker
+brew install homebrew/cask/docker
 brew install maccy
 brew install virtualbox
 brew install postman
@@ -23,3 +23,5 @@ brew install sound-control
 brew install the-unarchiver
 brew install hazel
 brew install meetingbar
+brew install bartender
+brew install sf-symbols
