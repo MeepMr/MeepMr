@@ -22,3 +22,4 @@ brew install fliqlo
 brew install affinity-publisher
 brew install affinity-photo
 brew install affinity-designer
+brew install shadow-beta

@@ -53,46 +53,32 @@ brew link --overwrite node@16 --force
 ```
 
 - [x] Install AppStore Apps
-  - Affinity Designer
-  - Affinity Publisher
-  - Affinity Photo
   - Grand Perspective
   - HotKey
   - iA Writer
   - MS Word
   - MS Excel
   - MS PowerPoint
-  - MS RD
-  - MS Teams
   - MS OneNote
-  - MS ONeDrive
-  - Mind Node
+  - MS OneDrive
   - Signal
-  - (Sync Folders)
   - GoodNotes
-
-- [x] Install Shadow
-
-- [x] VS-Code Plugins:
-  - Atom one dark theme
-  - Latex Workshop
-  - Material Icon Theme
 
 - [x] Dokumente, Desktop ... auf iCloud speichern
 - [x] Log in to Docker
+
 ```
 docker login -u mrmeep
 docker login ghcr.io -u meepmr
 ```
 
-- [x] Enable Private Mode in Firefox
 - [x] Add Templates To iA Writer
 - [x] Log into Jetbrains Toolbox
   - Install IntelliJ
-  - Install Rider
+  - Install Fleet
   - Install DataGrip
+  - Install WebStorm
 
 - [x] Configure MOS.app
-- [ ] (Install SF-Symbols)
 - [x] Configure Sound-Control
 - [x] Import Citations into Zotero
