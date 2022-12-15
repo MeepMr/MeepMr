@@ -63,6 +63,9 @@ brew link --overwrite node@16 --force
   - MS OneDrive
   - Signal
   - GoodNotes
+  - Mockup
+  - 1Password - Safari Extension
+  - Magnet
 
 - [x] Dokumente, Desktop ... auf iCloud speichern
 - [x] Log in to Docker

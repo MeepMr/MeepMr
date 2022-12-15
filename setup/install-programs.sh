@@ -1,4 +1,3 @@
-brew install atom
 brew install homebrew/cask/docker
 brew install maccy
 brew install postman
@@ -7,15 +6,13 @@ brew install zotero
 brew install node@16
 brew install texlive
 brew install 1password-beta
-brew install balenaetcher
-brew install boop
 brew install discord
 brew install drawio
 brew install jetbrains-toolbox
 brew install sound-control
 brew install the-unarchiver
 brew install hazel
-brew install meetingbar
+# brew install meetingbar
 brew install bartender
 brew install sf-symbols
 brew install fliqlo
@@ -23,3 +20,4 @@ brew install affinity-publisher
 brew install affinity-photo
 brew install affinity-designer
 brew install shadow-beta
+brew install jettison
