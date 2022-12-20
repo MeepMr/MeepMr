@@ -4,9 +4,8 @@ brew install postman
 brew install mos
 brew install zotero
 brew install node@16
-brew install texlive
-brew install 1password-beta
-brew install discord
+# brew install texlive
+Brew install homebrew/cask-versions/1password-betabrew install discord
 brew install drawio
 brew install jetbrains-toolbox
 brew install sound-control
